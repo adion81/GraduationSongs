@@ -17,7 +17,7 @@ And I'm Deee
 De buggin', buggin'
 
 All the conflicts, waiting in my repo,
-Merge in to master github branch,
+Merge in to github master branch,
 And all my team mates are waiting for the updates
 Yeah all my team mates are home with broken code
 
