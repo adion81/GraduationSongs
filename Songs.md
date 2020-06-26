@@ -1,0 +1,158 @@
+# March 2020 - DeBuggin'
+
+```
+It's a good app, buttons are workin,
+The forms are a little bit skewed
+But it's a good app, I'm getting back some JSON
+Routes work and the templates too
+
+Been a long day, in isolation,
+Now an error is running through my code
+I'm a bad dev 'cause I can't even see it
+I'm a bad dev for breaking my app
+
+And I'm Deee
+De Buggin', buggin'
+And I'm Deee
+De buggin', buggin'
+
+All the conflicts, waiting in my repo,
+Merge in to master github branch,
+And all my team mates are waiting for the updates
+Yeah all my team mates are home with broken code
+
+And I'm Deee
+De Buggin', buggin'
+And I'm Deee
+De buggin', buggin'
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin'
+
+I wanna slide down, into oblivion,
+Wanna re-write my entire Front End
+I wanna de-bug out all my errors
+Oh, I'm gonna de-bug this code for a while
+
+And I'm Deee
+De Buggin', buggin'
+And I'm Deee
+De buggin', buggin'
+Then I'm Deee
+De buggin', buggin'
+Now I'm Deee
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+Dee buggin', now I'm
+```
+
+# April 2020 - She Don't Use C#
+
+```
+D                              C
+I know a girl who writes in code
+D                                       C
+She'll make you models, she'll make you nodes
+D                                      C
+But she don't use C#,  she don't use Python
+G                             A
+She don't use JS , to rely on
+                D C G
+She uses PHP
+D C G
+PHP x2
+
+I know a guy who likes design
+He'll make your website, look real fine
+But he don't use CSS,  or even Bootstrap
+He's a nested rules, front-end chap
+He uses Sassy CSS'
+Sassy CSS' 3x
+
+I know a dev who likes DBs
+They'll store your info, with a stroke of ease
+They're always changing the way it's built
+They don't use Postgress, or MySQL
+They use MongoDB
+MongoDB 3X (edited) 
+```
+
+# May 2020 - Every Code Has It's Bug
+```
+Though we both code silently still, in the dead of the night
+Although we both branched off of  master, I feel conflicts deep inside
+Was it something I pushed or something I pulled
+Did my code not work out right?
+Though I tried not to break it, though I tried, I guess that's why they say
+
+Every code has it's bug
+Just like every mamma has her hug
+Just like every ninja, sings a sad, mad song
+Every code has it's bug
+
+I'm running our application, listening on localhost
+Hear console say there's error 404, when I try to post
+But I wonder did I misspell, a method or a route
+And I know if we could Live Share now we could work this out, I guess
+
+Every code has it's bug
+Just like every mamma has her hug
+Just like every ninja, sings a sad, mad song
+Every code has it's bug
+
+Though it's been 4 days now, I still can't run this app,
+I'm about to throw my laptop, and go , go take a nap
+I know I could've saved our code that night if I maybe had some rest
+Then you pointed out that the users routes was missin' an "S"
+
+And now our project magically works and can we can maybe add another framework
+But I think its best if I sleep right now, but first finish up this song some how, I guess
+
+Every code has it's bug
+Just like every mamma has her hug
+Just like every ninja, sings a sad, mad song
+Every code has it's bug (edited) 
+```
+
+# June 2020 - Bugs In The Code
+
+```
+[Intro]
+C Cmaj7 Cadd9 C Asus2 Asus4 Am Asus2
+Cadd9 C Cmaj7 Cadd9 Am Asus2 Asus4 Am
+
+  C     G/B  Am    G         Dm7           Am
+I compile my app only for a moment then I realize.
+C   G/B   Am     G             Dm7          Am
+All my routes are GET requests when only some should be.
+
+D   G        Am    D            G           Am
+Bugs in the code, all we are is bugs in the code.
+
+C  G/B  Am    G             Dm7             Am
+Same old error, lays before my eyes in my terminal.
+C   G/B  Am   G                 Dm7               Am
+All we code, crashes on our website when it reloads.
+
+D   G        Am    D            G           Am   G
+Bugs in the code, all we are is bugs in the code.
+
+C Cmaj7 Cadd9 C Asus2 Asus4 Am Asus2
+Cadd9 C Cmaj7 Cadd9 Am Asus2 Asus4 Am
+
+C      G/B   Am   G                Dm7           Am
+Don't git push, nothing works forever but the master branch.
+C  G5      Am  G                  Dm7        Am
+We'll code again, getting sleep is something I need to try
+
+D   G        Am    D            G           Am
+Bugs in the code, all we are is bugs in the code
+D   G        Am    D            G           Am
+Bugs in the code, everything is bugs in the code.
+```
