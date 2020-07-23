@@ -187,17 +187,11 @@ Bugs in the code, everything is bugs in the code.
  No, I ain't scared of git no more
 
 [Verse 2]
-G                  D/F#
- Remember when she broke my heart
-    Cadd9                    G
- Waitin' for the waiter to return my card?
-Am              Em           Am      G
- Right as I let down my guard, lucky me
-G                 D/F#
+ Remember when when I wrote them routes
+ And pushed them up without testing them out?
+ Okay I think I'm freaking out, lucky me
  We had to work a bit more hard
- Cadd9                     G
  Only just to get a little bit less far
-Am                       Em          Am         G
  We could laugh about it all tomorrow, couldn't we?
 
 [Pre-Chorus]
