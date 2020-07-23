@@ -161,47 +161,29 @@ Bugs in the code, everything is bugs in the code.
 
 ```
 [Verse 1]
-G                 D/F#
  Remember when we when we made that app?
-Cadd9            G
  I ended up with merge conflicts
-Am            Em          Am      G
  Oh my God, I felt so dumb, lucky me
-G                    D/F#
  I overwrote the file you coded
-Cadd9                G
  And pushed it up to master branch
-Am            Em           Am      G
  Oh my God, I felt so panick'd, lucky me
 
 [Pre-Chorus]
-   Am  Em                      Cadd9                      Em
  Wooooaaaah, when all is going wrong and you're scared as hell
-   Am  Em                   Cadd9             Em
  Wooooaaaah, what can you push? How can you tell?
- N.C
  Maybe a hundred bad commits made a hundred good lessons
- N.C
  A hundred good lessons make me better at committing
 
 [Chorus]
-   G                D/F#
  A hundred bad commits made a hundred good lessons
-   Em                   Bm
  A hundred good lessons make me better at committing
-     Cadd9   Bm
  Yeah, no, I ain't scared of git 
-Am     Cadd9
  No, I ain't scared of git no more
 
 [Post-Chorus]
-G         D/F#
  La-da-da-da-da-da-da-da-da-da-da, da, da
-Em        Bm
  La-da-da-da-da-da-da-da-da-da-da, da, da
-Cadd9  Bm
  No, I ain't scared of git
-Am     Cadd9
  No, I ain't scared of git no more
 
 [Verse 2]
@@ -219,59 +201,18 @@ Am                       Em          Am         G
  We could laugh about it all tomorrow, couldn't we?
 
 [Pre-Chorus]
-   Am  Em                      Cadd9                      Em
- Wooooaaaah, when all is going wrong and you're scared as hell
-   Am  Em                   Cadd9             Em
- Wooooaaaah, what can you push? How can you tell?
- N.C
- Maybe a hundred bad commits made a hundred good lessons
- N.C
- A hundred good lessons make me better at committing
+  
 
 [Chorus]
-   G                D/F#
- A hundred bad commits made a hundred good lessons
-   Em                   Bm
- A hundred good lessons make me better at committing
-     Cadd9   Bm
- Yeah, no, I ain't scared of git 
-Am     Cadd9
- No, I ain't scared of git no more
 
 [Post-Chorus]
-G         D/F#
- La-da-da-da-da-da-da-da-da-da-da, da, da
-Em        Bm
- La-da-da-da-da-da-da-da-da-da-da, da, da
-Cadd9  Bm
- No, I ain't scared of git
-Am     Cadd9
- No, I ain't scared of git no more
 
 [Bridge]
  N.C
- Do your thing it goes like this
-G  D/F#    Em  Bm
-Cadd9  Bm
+ Push your code it goes like this
  No, I ain't scared of git
-Am     Cadd9
  No, I ain't scared of git
- 
+
 [Chorus]
-   G                D/F#
- A hundred bad commits made a hundred good lessons
-   Em                   Bm
- A hundred good lessons make me better at committing
-     Cadd9   Bm
- Yeah, no, I ain't scared of git 
-Am     Cadd9
- No, I ain't scared of git no more
-  G                D/F#
- A hundred bad commits made a hundred good lessons
-   Em                   Bm
- A hundred good lessons make me better at committing
-     Cadd9   Bm
- Yeah, no, I ain't scared of git 
-Am     Cadd9
- No, I ain't scared of git no more
+[Chorus]
 ```
