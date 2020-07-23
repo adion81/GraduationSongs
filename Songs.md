@@ -187,8 +187,8 @@ Bugs in the code, everything is bugs in the code.
  No, I ain't scared of git no more
 
 [Verse 2]
- Remember when when I wrote them routes
- And pushed them up without testing them out?
+ Remember when I wrote them routes
+ And pushed them up to github without testing them out?
  Okay I think I'm freaking out, lucky me
  We had to work a bit more hard
  Only just to get a little bit less far
