@@ -170,7 +170,7 @@ Bugs in the code, everything is bugs in the code.
 
 [Pre-Chorus]
  Wooooaaaah, when all is going wrong and you're scared as hell
- Wooooaaaah, what can you push? How can you tell?
+ Wooooaaaah, what you gonna push? How can you tell?
  Maybe a hundred bad commits made a hundred good lessons
  A hundred good lessons make me better at committing
 
