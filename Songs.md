@@ -188,7 +188,7 @@ Bugs in the code, everything is bugs in the code.
 
 [Verse 2]
  Remember when I wrote them routes
- And pushed them up to github without testing them out?
+ Pushed'em up to github, not testing them out?
  Okay I think I'm freaking out, lucky me
  We had to work a bit more hard
  Only just to get a little bit less far
