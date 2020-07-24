@@ -163,7 +163,7 @@ Bugs in the code, everything is bugs in the code.
 [Verse 1]
  Remember when we when we made that app?
  I ended up with merge conflicts
- Oh my God, I felt so dumb, lucky me
+ Oh my God, I felt so static, lucky me
  I overwrote the file you coded
  And pushed it up to master branch
  Oh my God, I felt so panick'd, lucky me
