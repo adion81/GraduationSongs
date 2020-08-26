@@ -210,3 +210,42 @@ Bugs in the code, everything is bugs in the code.
 [Chorus]
 [Chorus]
 ```
+
+# - Space Crabs and the Dirty Code
+
+```
+Space Crabs and the dirty code
+Is what I code when I'm alone
+Alotta bugs and shoulder shrugs
+What I get when I run my code
+What I get when I run my code
+
+Thirty warnings in my terminal
+Will tell me that I can't proceed
+But I think I'm gonna stick it out
+Cuz sleeping is for the weak
+Cuz sleeping is for the weak
+
+If you could see my post request
+It can't be secure at all
+If I could just get some JSON back
+Won't throw my 'puter 'gainst the wall
+Won't throw my 'puter 'gainst the wall
+
+Soft light from the full-moon beams
+I want to push it up and go to sleep
+But every time that I close my eyes
+I'm dreaming in code for weeks
+I'm dreaming in code for weeks
+
+I didn't feel so bad when my server slowed
+But then I got more RAM
+And no one to help test my code
+Help test my code
+
+Well any dev with a deployed app
+Can help you debug your code
+And you know why you code at all
+If you're thinking 'bout Linked List nodes
+If you're thinking 'bout Linked List nodes
+```
