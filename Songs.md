@@ -249,3 +249,61 @@ And you know why you code at all
 If you're thinking 'bout Linked List nodes
 If you're thinking 'bout Linked List nodes
 ```
+
+# September - Undone
+
+```
+[Spoken Word]
+Hey Grads, how we doin' y'all?
+
+It’s been a like 3 months, coding’s so rad! Graduation's my favorite part, don’t ya think?
+
+well hey, do y'all want to graduate?
+
+Aw man, hell brah, this is the best y'all. I’m so glad we’re all back together and stuff. This is great, you know
+
+Hey, did you know about the project presentations after graduation?
+
+Aw man, it’s gonna be the best, I’m so stoked! Take it easy, brah!
+
+[Verse 1]
+Git push, git pull, conflicts, dang it
+I can git bash I think, it's great!
+
+[Chorus]
+If you want to deploy my project
+Push to Github, and say a prayer
+
+[Spoken Word]
+Hey, Adrien what's up?
+
+Yeah um, are you having some issues with github?
+
+Um, I don't think I have time to help, but,like see if your students are available. Maybe they can help you?
+
+[Verse 2]
+Oh no, it broke, it gone, bye-bye (Bye)
+I am, I think, I sick, and I die
+
+[Chorus]
+If you want to delpoy my project
+Push to Github and say a prayer (You gotta say a prayer!)
+Oh no there's conflicts, a huge disaster!
+I'm crying on the floor, Crying on the floor, I've come undone
+
+[Chorus]
+If you want to destroy my project
+Push to Github don't tell me (As I walk away!)
+Watch me panic I'm de-bugging
+Crying on the floor, crying on the floor, I've come undone
+
+[Outro]
+(I don't want to destroy my project)
+If you want to deploy my project
+(Let's be friends and just walk away)
+You've got to git push and say a prayer
+(Hate to see you lying there in your Superman skivvies)
+Watch me unravel I'll soon be naked
+(Lying on the floor, lying on the floor, I've come undone!)
+Lying on the floor, lying on the floor, I've come undone!
+```
