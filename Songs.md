@@ -264,11 +264,11 @@ Aw man, hell brah, this is the best y'all. I’m so glad we’re all back togeth
 
 Hey, did you know about the project presentations after graduation?
 
-Aw man, it’s gonna be the best, I’m so stoked! Take it easy, brah!
+Aw man, it’s gonna be the best, I’m so stoked! I'm gonna try to deploy my project but I may need some help!  See y'all later!
 
 [Verse 1]
 Git push, git pull, conflicts, dang it
-I can git bash I think, it's great!
+I can git bash I think, github!
 
 [Chorus]
 If you want to deploy my project
@@ -282,11 +282,11 @@ Yeah um, are you having some issues with github?
 Um, I don't think I have time to help, but,like see if your students are available. Maybe they can help you?
 
 [Verse 2]
-Oh no, it broke, it gone, bye-bye (Bye)
-I am, I think, I sick, and I die
+Oh no, its broke, login, and reg (and reg)
+I am, I think, I sick, and I toast
 
 [Chorus]
-If you want to delpoy my project
+If you want to delpoy our project
 Push to Github and say a prayer (You gotta say a prayer!)
 Oh no there's conflicts, a huge disaster!
 I'm crying on the floor, Crying on the floor, I've come undone
@@ -298,9 +298,9 @@ Watch me panic I'm de-bugging
 Crying on the floor, crying on the floor, I've come undone
 
 [Outro]
-(I don't want to destroy my project)
+(I don't want to deploy your project)
 If you want to deploy my project
-(Let's be friends and just walk away)
+(Let's just sleep and we'll code again)
 You've got to git push and say a prayer
 (Hate to see you lying there in your Superman skivvies)
 Watch me unravel I'll soon be naked
