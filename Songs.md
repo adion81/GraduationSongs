@@ -268,10 +268,10 @@ Aw man, it’s gonna be the best, I’m so stoked! I'm gonna try to deploy my pr
 
 [Verse 1]
 Git push, git pull, conflicts, dang it
-I can git bash I think, github!
+I can git bash I think, it crash!
 
 [Chorus]
-If you want to deploy my project
+If I want to deploy my project
 Push to Github, and say a prayer
 
 [Spoken Word]
@@ -286,24 +286,24 @@ Oh no, its broke, login, and reg (and reg)
 I am, I think, I sick, and I toast
 
 [Chorus]
-If you want to delpoy our project
+If I want to delpoy my project
 Push to Github and say a prayer (You gotta say a prayer!)
 Oh no there's conflicts, a huge disaster!
-I'm crying on the floor, Crying on the floor, I've come undone
+I'm crying on the floor, Crying on the floor, My code's undone
 
 [Chorus]
 If you want to destroy my project
-Push to Github don't tell me (As I walk away!)
+Push to Github don't tell me (And just walk away!)
 Watch me panic I'm de-bugging
-Crying on the floor, crying on the floor, I've come undone
+Crying on the floor, crying on the floor, My code's undone
 
 [Outro]
-(I don't want to deploy your project)
-If you want to deploy my project
-(Let's just sleep and we'll code again)
-You've got to git push and say a prayer
-(Hate to see you lying there in your Superman skivvies)
-Watch me unravel I'll soon be naked
-(Lying on the floor, lying on the floor, I've come undone!)
-Lying on the floor, lying on the floor, I've come undone!
+(I don't want to deploy my project)
+If I want to deploy my project
+(Let me sleep and I'll code again)
+Push to Github and say a prayer
+(Hate to see my code get deployed to production)
+Oh no there's conflicts, a huge disaster!
+(Crying on the floor, crying on the floor, My code's undone!)
+I'm crying on the floor, Crying on the floor, My code's undone
 ```
