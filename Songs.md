@@ -253,7 +253,7 @@ If you're thinking 'bout Linked List nodes
 # September - Undone
 
 ```
-[Spoken Word]
+[Spoken Word - Adrien]
 Hey Grads, how we doin' y'all?
 
 It’s been a like 3 months, coding’s so rad! Graduation's my favorite part, don’t ya think?
@@ -274,7 +274,7 @@ I can git bash I think, it crash!
 If I want to deploy my project
 Push to Github, and say a prayer
 
-[Spoken Word]
+[Spoken Word - Anne]
 Hey, Adrien what's up?
 
 Yeah um, are you having some issues with github?
