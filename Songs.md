@@ -307,3 +307,40 @@ Oh no there's conflicts, a huge disaster!
 (Crying on the floor, crying on the floor, My code's undone!)
 I'm crying on the floor, Crying on the floor, My code's undone
 ```
+
+# October - You Don't Know How It Feels
+
+```
+Let me code with you this week
+We'll make an app to trade antiques
+There's some code I used to see
+But merge conflicts deleted me
+
+But let me push to the main, man!! github is pain
+And gonna say a litte prayer, that my branch is still there
+I don't know if git works
+I don't know if git works, git merge!!!
+
+Some routes work, some routes fail
+Some routes are slow as snails
+I woke up in between
+A post request and a dream
+
+So my GET request works, let's set off some fireworks
+But my post is 404
+I guess I gotta code some more
+And I don't know if it works
+I don't know if it works, my eyes hurt
+
+My old man was born to rock
+He's still tryin' to beat the clock
+Think of me what you will
+I got a little space to fill
+
+So let's get to the point, let's roll another joint
+Let's head on down the road
+There's somewhere I gotta go
+And you don't know how it feels
+No, you don't know how it feels to be me
+
+```
