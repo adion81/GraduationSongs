@@ -318,8 +318,8 @@ But merge conflicts deleted me
 
 So let me push to the main, man!! github is pain
 And gonna say a litte prayer, that my branch is still there
-I don't know if git works
-I don't know if git works, git merge!!!
+I don't know if it works
+I don't know if it works, git merge!!!
 
 Some routes work, some routes fail
 Some routes are slow as snails
@@ -341,7 +341,7 @@ So let me push to the main, man!! github is pain
 And gonna say a litte prayer, that my branch is still there
 I don't know if git works
 I don't know if git works, git merge!!!
-No, I don't know if git works,
-I don't know if git works, git merge!!!
+No, I don't know if it works,
+I don't know if it works, git merge!!!
 
 ```
