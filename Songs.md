@@ -308,7 +308,7 @@ Oh no there's conflicts, a huge disaster!
 I'm crying on the floor, Crying on the floor, My code's undone
 ```
 
-# October - I Don't Know If Git Works
+# October - I Don't Know If It Works
 
 ```
 Let me code with you this week
@@ -330,7 +330,7 @@ So my GET request works, let's set off some fireworks
 But my post is 404
 I guess I gotta code some more
 And I don't know if it works
-I don't know if it works, my eyes hurt
+I don't know if it works, git merge!!!
 
 My Action Routes seem alright
 I guess I'll get to sleep tonight
@@ -339,8 +339,8 @@ And try to use some bootstrap
 
 So let me push to the main, man!! github is pain
 And gonna say a litte prayer, that my branch is still there
-I don't know if git works
-I don't know if git works, git merge!!!
+I don't know if it works
+I don't know if it works, git merge!!!
 No, I don't know if it works,
 I don't know if it works, git merge!!!
 
