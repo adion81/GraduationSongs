@@ -345,3 +345,71 @@ No, I don't know if it works,
 I don't know if it works, git merge!!!
 
 ```
+
+# Novemember - Ninja Now
+
+```
+It's one o'clock on a Tuesday night
+The regular crowd's in the chat
+There's an odd lil' err creepin' in my app
+Buggin' out 'cuz I need a nap
+
+It says, "JSON, cannot read undefined."
+I'm not really sure what that means
+But I'm tired and hungry and so far behind
+My eyes hurt from looking at screens
+
+La, la, la, di, dee, da
+La, la, di, dee, da, da, dum
+
+Build us an app, you're a ninja now
+Build us an app tonight
+Well, we're all in need of technology
+And you've got a repo just right
+
+Now all my routes have been tested in Postman
+It's helps test api's for free
+And I looked at my PUT then changed it to POST
+But it broke 'cuz I forgot an id
+
+I said, "Man, what the heck am I coding for"
+As tears trickled down my face
+"Well, I'm sure I could get this thing to work
+And update my local database"
+
+Oh, la, la, la, di, dee, da
+La, la, di, dee, da, da, dum
+
+Now my front-end is saying it can't compile
+There's no folder called views
+And after talking with Chris, I think I might have missed
+And 's' in the path that I used
+
+And now my App is running perfectly
+As I pushed it up to git
+Yes, I think whilst I weep, I'll go get some sleep
+And tomorrow I'll add another bit
+
+Build us an app, you're a ninja now
+Build us an app tonight
+Well, we're all in need of technology
+And you've got a repo just right
+
+It's a pretty good app for a project
+It's a bot to buy a Playstation 5
+'Cause I know when I'm finished I'll play games to replinish
+And forget about coding for a while
+
+And the chat, it looks like a circus
+Once all the bugs disappeared
+I guess of the instructors was a master bug hunter
+And said, "Now, go get some sleep my peers!"
+
+Oh, la, la, la, di, dee, da
+La, la, di, dee, da, da, dum
+
+Build us an app, you're a ninja now
+Build us an app tonight
+Well, we're all in need of technology
+And you've got a repo just right
+```
