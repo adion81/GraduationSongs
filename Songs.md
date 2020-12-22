@@ -413,3 +413,39 @@ Build us an app tonight
 Well, we're all in need of technology
 And you've got a repo just right
 ```
+
+# December -- Have Yourself a Happy Graduation
+
+```
+Have yourself a happy Graduation
+May your code compile
+From now on
+Our errors will pass us by
+
+Have yourself a happy Graduation
+Make the git branch merge
+From now on
+Our conflicts should be out of sight
+
+While we're in remote work days
+Remember happy days of yore
+Soon again we'll play ping pong games
+Gather in one place, once more
+
+Through the years
+We all will code together
+If the fates allow
+Until then we'll have to
+use Zoom rooms for now
+And have yourself a happy Graduation now
+
+Soon again we'll play ping pong games
+Gather in one place, once more
+
+Some day soon
+We all will code together
+If the fates allow
+Until then, deploy an app on AWS right meow
+And have yourself a happy Graduation now
+
+```
