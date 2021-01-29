@@ -449,3 +449,48 @@ Until then, deploy an app on AWS right meow
 And have yourself a happy Graduation now
 
 ```
+
+# January '21 --  The Github Connection
+
+```
+Why are there so many songs about github
+And what does it mean to merge?
+Repos are versions, but only illusions
+But where do they really live?
+
+I was once told, branch off of Main
+I think they're wrong, wait and see
+
+Someday we'll find it, the github connection
+The coders, the builders, and me
+
+Who said that every push would fix our applications
+When pushed in the morning hour?
+Some dev thought of that, another believed it
+Look what it's done so far
+
+What's so frustrating, my app keeps on breaking
+And what do you think it could be?
+
+Someday we'll find it, the github connection
+The coders, the builders, and me
+
+All of us merge into Main
+We know that it's problematic
+
+I must have been half asleep, when I pushed my changes
+And now my routes don't work
+Is this the struggle that drives young ninjas?
+The plight might be one and the same
+
+I've heard it too many times to ignore it
+It's something that I'm supposed to be
+
+Someday we'll find it, the github connection
+The coders, the builders, and me
+
+La-da-da-de-da-da-do
+La-da-da-da-da-de-da-do
+
+```
+
