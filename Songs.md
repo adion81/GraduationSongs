@@ -494,3 +494,77 @@ La-da-da-da-da-de-da-do
 
 ```
 
+February '21 - I'm Done
+
+```
+[Intro]
+F#m A E D
+ 
+ 
+[Verse 1]
+     F#m    A                   E                         D
+Okay, I  realize now, that everything that I did was wrong
+     F#m   A                         E               D
+Okay, I realize now, I forgot an s on one of my routes
+    F#m    A                    E                     D
+Okay, I realize now, that's why my app won't post navigate
+    F#m    A           N.C.
+Okay, I realize now, that Imma about to graduate - ate
+ 
+ 
+[Chorus]
+    F#m           A    E                 D
+I'm done, so done, so done with all dojo surveys
+    F#m           A    E               D
+I'm numb, so numb, I'm numb from all my dojo fun
+    F#m                   A
+I'm tryna figure this app out for myself
+E                   D                F#m      A
+I think I need Anne or somebody else, I'm done, so done
+   E                 D                  F#m
+So done, so done, so done, so done, I'm done
+    A   E         D
+(Oh no, no-no-no, no-no-no)
+ 
+ 
+[Verse 2]
+  F#m
+I think that it's time for me to realize
+     A
+That I need a job, so I can survive
+E
+I wish that I was, a triple black belt
+    D
+So I could feel good about being myself
+    F#m
+But now that I know, that's not how it goes
+A
+I ain't gon'worry, just try'n to relax
+    E
+And thinking about, how did we survive
+     D
+But don't it feel good, we came out alive
+    F#m        A
+And now, for, now (For now)
+               E                         D
+For now I'm gonna play , and surely celebrate
+    F#m       A
+And now, right now
+                   E                         N.C.
+I've finally changed my life, yeah I changed my life
+ 
+ 
+[Chorus]
+    F#m           A    E                 D
+I'm done, so done, done with all dojo surveys
+    F#m           A    E               D
+I'm numb, so numb, I'm numb from all my dojo fun
+    F#m                   A
+I'm tryna figure this app out for myself
+E                   D                F#m      A
+I think I need Anne or somebody else, I'm done, so done
+   E                 D                  F#m
+So done, so done, so done, so done, I'm done
+
+```
+
