@@ -551,7 +551,7 @@ For now I'm gonna play , and surely celebrate
     F#m       A
 And now, right now
                    E                         N.C.
-I've finally changed my life, yeah I changed my life
+I've finally changed my life, I'm gonna code for life
  
  
 [Chorus]
