@@ -556,7 +556,7 @@ I've finally changed my life, I'm gonna code for life
  
 [Chorus]
     F#m           A    E                 D
-I'm done, so done, done with all dojo surveys
+I'm done, so done,so done with all dojo surveys
     F#m           A    E               D
 I'm numb, so numb, I'm numb from all my dojo fun
     F#m                   A
