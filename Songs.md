@@ -494,7 +494,7 @@ La-da-da-da-da-de-da-do
 
 ```
 
-February '21 - I'm Done
+#February '21 - I'm Done
 
 ```
 [Intro]
@@ -516,7 +516,7 @@ Okay, I realize now, that Imma about to graduate - ate
     F#m           A    E                 D
 I'm done, so done, so done with all dojo surveys
     F#m           A    E               D
-I'm numb, so numb, I'm numb from all my dojo fun
+I'm numb, so numb, I'm numb from all the dojo fun
     F#m                   A
 I'm tryna figure this app out for myself
 E                   D                F#m      A
@@ -558,7 +558,7 @@ I've finally changed my life, I'm gonna code for life
     F#m           A    E                 D
 I'm done, so done,so done with all dojo surveys
     F#m           A    E               D
-I'm numb, so numb, I'm numb from all my dojo fun
+I'm numb, so numb, I'm numb from all the dojo fun
     F#m                   A
 I'm tryna figure this app out for myself
 E                   D                F#m      A
@@ -567,4 +567,3 @@ I think I need Anne or somebody else, I'm done, so done
 So done, so done, so done, so done, I'm done
 
 ```
-
