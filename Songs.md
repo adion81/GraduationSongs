@@ -567,3 +567,94 @@ I think I need Anne or somebody else, I'm done, so done
 So done, so done, so done, so done, I'm done
 
 ```
+
+# March '21 - Sweet Coding Dojo
+
+```
+Come on, 
+don't you wanna write some code,
+Oh come on, 
+don't you wanna write some code,
+Back in that same old place, 
+Sweet Coding Dojo
+
+Come on,
+Let's do some morning algos,
+Hida-hey,
+Let's do some morning algos,
+Back in that same old place,
+Sweet Coding Dojo
+
+Well, quick sort was quick
+And bubble sort was slow
+Big O notation is good to know
+Hida-hey let's go finish morning algos
+Back in that same old place,
+Sweet Coding Dojo
+
+Code on,
+writing out our Linked List Nodes,
+O O P, 
+writing out our Linked List Nodes,
+Back in that same old place, 
+Sweet Coding Dojo
+
+Eh bien,
+sept et huit font quatre,
+Et deux moins deux font cinq,
+J'ai oublié mes validations
+Hida-hey on y va écrire du code
+Back in that same old place,
+Sweet Coding Dojo
+
+```
+
+
+# April - Ninja of Gold
+
+```
+You asked me, "Hey, could you help out?"
+I get an error when I reroute
+I said you that you forgot an "s"
+I think you need to sleep
+
+You asked me, "Hey, could you help out?"
+I get an error when I reroute
+I said you that you forgot an "s"
+I think you need to sleep
+
+You will debug
+Those errors when you dream sweetly
+You'll wake up so refreshed
+On this I guarantee
+
+Let's say we changed your app again
+And pushed it up to github main
+We'll make pretend that you and me
+Coded it so perfectly
+
+You asked me, "Hey, could you help out?"
+I get an error when I reroute
+I said you that you forgot an "s"
+I think you need to sleep
+
+You will debug
+Those errors when you dream sweetly
+You'll wake up so refreshed
+On this I guarantee (Ooh)
+
+And now that you are graduates
+Your life and jobs are what awaits
+I will plan to keep teaching
+So I just might have some meaning
+
+You asked me, "Hey, could you help out?"
+I get an error when I reroute
+I said you that you forgot an "s"
+I think you need to sleep
+
+You will debug
+Those errors when you dream sweetly
+You'll wake up so refreshed
+On this I guarantee
+```
