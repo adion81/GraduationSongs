@@ -658,3 +658,51 @@ Those errors when you dream sweetly
 You'll wake up so refreshed
 On this I guarantee
 ```
+
+
+# May 21 - Dream On
+
+```
+Every time I look in the terminal
+All these lines of code getting errors
+The app is gone
+And it went wrong, from dusk to dawn
+Isn't that the way?
+Everybody's got their bugs in code to slay
+
+Yeah, I know nobody's code
+Is perfect or safe from the bugs we know
+I know it's everybody's sin
+You got to fail to know how to win
+
+Half the code I write, is hot garbage
+Live and learn 404 error pages
+You know it's true, oh
+All the things come back to you
+
+Sing with me, sing for a code
+Sing for the errors, and sing the nodes
+Sing with me, if it's just for today
+Maybe tomorrow, Github will push you away
+
+Code on
+Code on
+Code on
+Code until the dream come true
+Code on
+Code on
+Code on
+Code until your dream come true
+Code on
+Code on
+Code on
+Code on
+Code on
+Code on
+Code on, ah
+
+Sing with me, sing for a code
+Sing for the errors, and sing the nodes
+Sing with me, if it's just for today
+Maybe tomorrow, Github will push you away
+```
