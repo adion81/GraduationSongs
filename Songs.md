@@ -706,3 +706,94 @@ Sing for the errors, and sing the nodes
 Sing with me, if it's just for today
 Maybe tomorrow, Github will push you away
 ```
+
+
+# July '21 - MySQL Died
+
+
+```
+A short, short time ago
+I can still remember how that schema used to make me smile
+And I knew if I had a shot
+That I could make my twitter bot, and maybe I could get a job
+But an update made was delivered, on restart my desktop flickered
+Bad news for my website, just a web dev's plight
+I can't remember what happened next, I must have passed out on my desk
+Something broke me deep inside
+The day MySQL died
+
+So bye, bye all the data inside,
+Wrote a query, got a dreay console message it died
+And them good ole devs were screaming access denied
+Thinking this'll be the day that I cried, this will be the day that I cried
+
+Did you write MySQL Zoo,
+Can you delete Lead Gen Business too, if the boss asked you to,
+Can you create that ERD?
+And then relate songs to James Dean even though my computer runs real slow?
+Well I know the update shut it down, I guess I look like a coding clown
+I'm gonna send my windows back, and opt to buy that Mac!!
+I was a lonely dev in the discord chat, with a broken app and a baseball bat
+And I think I might smash it up the day MySQL died, I started singing
+
+So bye, bye all the data inside,
+Wrote a query, got a dreay console message it died
+And them good ole devs were screaming access denied
+Thinking this'll be the day that I cried, this will be the day that I cried
+
+Well I met a dev that sang the blues,
+And I asked them for some happy news, but they just laughed and cried it all away
+And I went into the learn platform,
+Where I installed MySQL days before, and clicked the video for another play,
+But in the Zoom the ninjas screamed, the TAs cried and instructors dreamed,
+But not a word was spoken, all MySQLs were broken,
+And then I was taken back, when the mail came in and I got my Mac,
+I won't need SQL for the MERN stack, but hey MySQL died
+We started singing
+
+Bye, bye all the data inside,
+Wrote a query, got a dreay console message it died
+And them good ole devs were screaming access denied
+Thinking this'll be the day that I cried
+```
+
+
+# The Farewell
+```
+Didn't know what time it was I got real bored,
+I hit backspace on my keyboard,
+Some ninja was laying down some Python code,
+"Sort'n Algo" they said
+Then my machine screen did seem to fade,
+A voice came through my speakers on a wave of phase,
+That weren't no ninja, that was a hazy cosmic jive
+
+There are Space Crabs waiting in the sky
+They'd like to show us algos
+But they're 'fraid they'd blow our minds
+There are Space Crabs waiting in the sky
+They told us not to blow it
+Cuz they know it's all worth while
+They told me,
+Let the ninjas fail it,
+Let the ninjas prevail it, 
+Let all the ninjas boogie
+
+They asked a question, that I thought I knew
+First In Last Out is that a Stack or Queue?
+Let's get together, I may need a quickly code review
+Look in the chat, I can see their code
+Yes it's sparkling like a BTNode
+Don't let them leave or we might never get it right
+
+There are Space Crabs waiting in the sky
+They'd like to show us algos
+But they're 'fraid they'd blow our minds
+There are Space Crabs waiting in the sky
+They told us not to blow it
+Cuz they know it's all worth while
+They told me,
+Let the ninjas fail it,
+Let the ninjas prevail it, 
+Let all the ninjas boogie
+```
